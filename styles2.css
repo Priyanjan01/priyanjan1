@@ -54,18 +54,17 @@ a {
     
 }
 
-.service ,.service1 {
+.service  {
     margin-bottom: 30px;
     text-align: center;
     flex-direction: row; 
 }
+
+
 .service img {
     max-width: 100%;
 }
-.service1 img{
-    width:45%;
-    height:30%;
-}
+
 .about {
     background-color: #f9f9f9;
     padding: 50px 20px;
