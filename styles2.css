@@ -41,23 +41,32 @@ a {
     padding: 100px 20px;
     background-color: #222;
     color: #fff;
+    background-image: url('cover.png');
+    background-size: cover; 
+    background-position: center;
 }
 
 .services {
     padding: 50px 20px;
+    background-image: url('cover2.jpg');
+    background-size: cover; 
+    background-position: center;
     
 }
 
-.service {
+.service ,.service1 {
     margin-bottom: 30px;
     text-align: center;
     flex-direction: row; 
 }
 
+
 .service img {
     max-width: 100%;
 }
-
+.service1 img{
+    height:440px;
+}
 .about {
     background-color: #f9f9f9;
     padding: 50px 20px;
