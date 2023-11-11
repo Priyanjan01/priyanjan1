@@ -44,10 +44,13 @@ a {
 
 .services {
     padding: 50px 20px;
+    
 }
 
 .service {
     margin-bottom: 30px;
+    text-align: center;
+    flex-direction: row; 
 }
 
 .service img {
