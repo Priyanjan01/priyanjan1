@@ -59,6 +59,9 @@ a {
     text-align: center;
     flex-direction: row; 
 }
+.service img {
+    max-width: 100%;
+}
 .service1 img{
     width:45%;
     height:30%;
