@@ -65,7 +65,8 @@ a {
     max-width: 100%;
 }
 .service1 img{
-    height:440px;
+    width:45%;
+    height:30%;
 }
 .about {
     background-color: #f9f9f9;
